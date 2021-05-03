@@ -1,0 +1,28 @@
+{
+    "data": 
+        {
+              
+                "server_url": "https://mxradio.online/livetv/speed_api.php",
+              
+                
+                
+                "FBrewardsAds": "IMG_16_9_APP_INSTALL#300467668365095_300468221698373",
+                "facebook_banner":"IMG_16_9_APP_INSTALL#300467668365095_300696365008892",
+                "fbinter":"IMG_16_9_APP_INSTALL#300467668365095_306578271087368",
+                "fbnative":"IMG_16_9_APP_INSTALL#300467668365095_300522795026249",
+                
+                "unityGameID":"4112799", 
+                "unityrewardId":"rewardedVideo",
+                "unitybanner":"Banner",
+                "unityinter":"video",
+
+
+                "admob_app_id":"ca-app-pub-3940256099942544~77850731344",
+                "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+                "admobnative":"ca-app-pub-3940256099942544/2247696110",
+                "admobinter":"ca-app-pub-3940256099942544/1033173712",
+                "admobreward":"ca-app-pub-3940256099942544/5224354917"            
+        }
+       
+ 
+}
