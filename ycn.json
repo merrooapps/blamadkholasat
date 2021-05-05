@@ -16,12 +16,11 @@
                 "unitybanner":"Banner",
                 "unityinter":"video",
 
-
-                "admob_app_id":"ca-app-pub-xxxxxxxxxxx~xxxxxxxxxxx",
-                "admob_banner":"ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx",
-                "admobnative":"ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx",
-                "admobinter":"ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx",
-                "admobreward":"ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx"            
+                "admob_app_id":"ca-app-pub-3940256099942544~6300978111",
+                "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+                "admobnative":"ca-app-pub-3940256099942544/6300978111",
+                "admobinter":"ca-app-pub-3940256099942544/6300978111",
+                "admobreward":"ca-app-pub-3940256099942544/6300978111"            
         }
        
  
