@@ -11,15 +11,15 @@
                 "fbinter":"443005556943024_443161050260808",
                 "fbnative":"443005556943024_443160776927502",
                 
-                "unityGameID":"xxxxxx", 
+                "unityGameID":"4112799", 
                 "unityrewardId":"video",
-                "unitybanner":"BannerCineflix",
-                "unityinter":"intervideo",
+                "unitybanner":"Banner",
+                "unityinter":"interstitialYacinePlay",
 
                 "admob_app_id":"ca-app-pub-6533119974737710~7785073134",
                 "admob_banner":"ca-app-pub-6533119974737710/6769823605",
                 "admobnative":"ca-app-pub-6533119974737710/2255863525",
                 "admobinter":"ca-app-pub-6533119974737710/5265170242",
-                "admobreward":"ca-app-pub-6533119974737710/5019620058"            
+                "admobreward":"ca-app-pub-3940256099942544/5224354917"            
         }
 }
