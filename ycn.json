@@ -17,10 +17,10 @@
                 "unityinter":"interstitialYacinePlay",
             
 
-                "admob_app_id":"ca-app-pub-6533119974737710~7785073134",
-                "admob_banner":"ca-app-pub-6533119974737710/6769823605",
-                "admobnative":"ca-app-pub-6533119974737710/2255863525",
-                "admobinter":"ca-app-pub-6533119974737710/5265170242",
-                "admobreward":"ca-app-pub-6533119974737710/5019620058"            
+                "admob_app_id":"ca-app-pub-xxxxxxxxxxx~xxxxxxxxxxx",
+                "admob_banner":"ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx",
+                "admobnative":"ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx",
+                "admobinter":"ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx",
+                "admobreward":"ca-app-pub-xxxxxxxxxxx/xxxxxxxxxxx"            
         }
 }
