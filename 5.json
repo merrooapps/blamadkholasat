@@ -1,0 +1,28 @@
+{
+    "data": 
+        {
+                "package": "com.yacine.tv.yalla.live",
+                "server_url": "https://mxradio.online/multiapp/speed_api.php",
+              
+                
+                
+                "FBrewardsAds": "xxxx_xxxxx",
+                "facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                "fbinter":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                "fbnative":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                
+                "unityGameID":"xxxxxxx", 
+                "unityrewardId":"rewardedVideo",
+                "unitybanner":"Banner",
+                "unityinter":"video",
+
+
+                "admob_app_id":"ca-app-pub-394025609994254x~77850731344",
+                "admob_banner":"ca-app-pub-394025609994254x/6300978111",
+                "admobnative":"ca-app-pub-394025609994254x/2247696110",
+                "admobinter":"ca-app-pub-394025609994254x/1033173712",
+                "admobreward":"ca-app-pub-3940256099942544xx/5224354917"            
+        }
+       
+ 
+}
