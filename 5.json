@@ -6,10 +6,10 @@
               
                 
                 
-                "FBrewardsAds": "xxxx_xxxxx",
-                "facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-                "fbinter":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-                "fbnative":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                "FBrewardsAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                "facebook_banner":"xxxx_xxxxx",
+                "fbinter":"xxxx_xxxxx",
+                "fbnative":"xxxx_xxxxx",
                 
                 "unityGameID":"xxxxxxx", 
                 "unityrewardId":"rewardedVideo",
