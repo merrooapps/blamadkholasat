@@ -1,0 +1,28 @@
+{
+    "data": 
+        {
+                "package": "com.yacine.tv.yalla.shoot",
+                "server_url": "https://mxradio.online/livetv2/speed_api.php",
+              
+                
+                
+                "FBrewardsAds": "xxxx_xxxxx",
+                "facebook_banner":"38873752899176x5_388737842325067",
+                "fbinter":"38873752899176x5_389234985608686",
+                "fbnative":"38873752899176x5_389235192275332",
+                
+                "unityGameID":"3756601x", 
+                "unityrewardId":"rewardedVideo",
+                "unitybanner":"BannerCineflix",
+                "unityinter":"video",
+
+
+                "admob_app_id":"ca-app-pub-394025609994254x~77850731344",
+                "admob_banner":"ca-app-pub-394025609994254x/6300978111",
+                "admobnative":"ca-app-pub-394025609994254x/2247696110",
+                "admobinter":"ca-app-pub-394025609994254x/1033173712",
+                "admobreward":"ca-app-pub-3940256099942544xx/5224354917"            
+        }
+       
+ 
+}dazd
