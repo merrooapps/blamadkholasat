@@ -1,14 +1,14 @@
 {
     "data": 
         {
-                "package": "com.football.live.tv.stream",
+                "package": "com.marouane.yacine.tvView",
                 "server_url": "https://mxradio.online/livetv3/speed_api.php",
                 "isAdmob" : "false",
 
-                "mopub_banner" : "b195f8dd8ded45fe847ad89ed1d016da",
-                "mopub_interstitial":"24534e1901884e398f1253216226017e",
-                "mopub_reward" : "920b6145fb1546cf8b5cf2ac34638bb7",
-                "mopub_native" : "11a17b188668469fb0412708c3d16813",
+                "mopub_banner" : "b195f8dd8ded45fe847ad89ed1d016dax",
+                "mopub_interstitial":"24534e1901884e398f1253216226017ex",
+                "mopub_reward" : "920b6145fb1546cf8b5cf2ac34638bb7x",
+                "mopub_native" : "11a17b188668469fb0412708c3d16813x",
 
 
                 "admob_app_id":"ca-app-pub-394025609994254x~77850731344",
