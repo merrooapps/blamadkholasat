@@ -1,14 +1,14 @@
 {
     "data": 
         {
-                "package": "com.marouane.yacine.tvView",
+                "package": "com.marouane.yacine.tv",
                 "server_url": "https://mxradio.online/livetv3/speed_api.php",
                 "isAdmob" : "false",
 
-                "mopub_banner" : "b195f8dd8ded45fe847ad89ed1d016dax",
-                "mopub_interstitial":"24534e1901884e398f1253216226017ex",
-                "mopub_reward" : "920b6145fb1546cf8b5cf2ac34638bb7x",
-                "mopub_native" : "11a17b188668469fb0412708c3d16813x",
+                "mopub_banner" : "e2ad164cf46a4bccae0b51fbdbad14f8",
+                "mopub_interstitial":"872397f529284b328c6a40ddfbc6476b",
+                "mopub_native" : "c81ff360dcae479ea31d03385b78070f",
+                "mopub_reward" : "f3c24e31633a4c6db3af8d7a84028776",
 
 
                 "admob_app_id":"ca-app-pub-394025609994254x~77850731344",
