@@ -1,0 +1,29 @@
+{
+    "data": 
+        {
+                "package": "com.yassin.radio.fm.live",
+                "server_url": "https://mxradio.online/radioyassin/speed_api.php",
+              
+                
+                
+                "FBrewardsAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_IDxxxxx_xxxxx",
+                "facebook_banner":"680138372706088x_680140672705858",
+                "fbinter":"680138372706088x_698623750857550",
+                "fbnative":"680138372706088x_721332291920029",
+            
+
+                "unityGameID":"3756601", 
+                "unityrewardId":"rewardedVideo",
+                "unitybanner":"BannerCineflix",
+                "unityinter":"video",
+
+
+                "admob_app_id":"ca-app-pub-394025609994254x~77850731344",
+                "admob_banner":"ca-app-pub-394025609994254x/6300978111",
+                "admobnative":"ca-app-pub-394025609994254x/2247696110",
+                "admobinter":"ca-app-pub-394025609994254x/1033173712",
+                "admobreward":"ca-app-pub-3940256099942544xx/5224354917"            
+        }
+       
+ 
+}
