@@ -2,7 +2,7 @@
     "data": 
         {
                 "package": "com.marouane.yacine.tv",
-                "server_url": "https://mxradio.online/livetv3/speed_api.php",
+                "server_url": "http://mxradio.online/livetv3/speed_api.php",
                 "isAdmob" : "false",
 
                 "mopub_banner" : "e2ad164cf46a4bccae0b51fbdbad14f8",
