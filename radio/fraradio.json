@@ -1,0 +1,12 @@
+{
+	"RADIO_FRANCE": [
+        
+    {
+		"image": "http://cdn.onlineradiobox.com/img/l/4/34914.v5.png",
+		"name": "SB Stereo",
+		"url": "http://stream.playerlive.info:8285/sb.aac?type=.mp3"
+	}
+
+]
+
+}
