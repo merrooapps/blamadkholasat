@@ -1,0 +1,34 @@
+{
+    "data": 
+        {
+                "Package_name": "com.cinema.cimahub",
+                
+                "term_url": "https://mxradio.online/khawya/terms/",
+                "server_url": "https://mxradio.online/khawya/rest-api/",
+                "api_key": "xjTlhIHYGLMhjifuYG",
+                "envato_code" : "",
+                
+                "FBrewardsAds": "",
+                "facebook_banner":"383977558280079x_3845416285570055",
+                "fbinter":"383977558280079x_3845414495570234",
+                "fbnative":"383977558280079x_3845415395570144",
+                
+                "unityGameID":"4117593", 
+                "unityrewardId":"video",
+                "unitybanner":"bannerCinemaHD",
+                "unityinter":"interCinemaHD",
+
+                "startapp_id":"XXXXXXXXXXX",
+
+
+                "admob_app_id":"ca-app-pub-xxxxxxxxx~xxxxxxxxx",
+                "developerId":"pub-xxxxxxxxx",
+                "admob_banner":"ca-app-pub-xxxxxxxxx_xxxxxxxxx",
+                "admobnative":"ca-app-pub-xxxxxxxxx_xxxxxxxxx",
+                "admobinter":"ca-app-pub-xxxxxxxxx_xxxxxxxxx",
+                "admobreward":"ca-app-pub-xxxxxxxxx_xxxxxxxxx"
+
+        }
+       
+ 
+}
