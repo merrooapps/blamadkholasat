@@ -3,8 +3,8 @@
         {
                 "Package_name": "com.cine.hub",
                 
-                "term_url": "https://mxradio.online/khawya/terms/",
-                "server_url": "https://mxradio.online/khawya/rest-api/",
+                "term_url": "https://mxradio.online/oxoo-lhoucine/terms/",
+                "server_url": "https://mxradio.online/oxoo-lhoucine/rest-api/",
                 "api_key": "xjTlhIHYGLMhjifuYG",
                 "envato_code" : "",
                 
@@ -13,7 +13,7 @@
                 "fbinter":"383977558280079x_3845414495570234",
                 "fbnative":"383977558280079x_3845415395570144",
                 
-                "unityGameID":"xxxxxxx", 
+                "unityGameID":"4117593", 
                 "unityrewardId":"video",
                 "unitybanner":"bannerCinemaHD",
                 "unityinter":"interCinemaHD",
