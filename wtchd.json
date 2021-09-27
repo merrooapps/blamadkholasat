@@ -1,10 +1,10 @@
 {
     "data": 
-        {//Cinema hub version #2021
-                "Package_name": "com.watched.plus",
+        {
+                "Package_name": "com.cine.hub",
                 
-                "term_url": "https://mxradio.online/yesmovies/terms/",
-                "server_url": "https://mxradio.online/yesmovies/rest-api/",
+                "term_url": "http://radiodiali.com/oxoomxradio/oxoo-lhoucine/terms/",
+                "server_url": "http://radiodiali.com/oxoomxradio/oxoo-lhoucine/rest-api/",
                 "api_key": "xjTlhIHYGLMhjifuYG",
                 "envato_code" : "",
                 
@@ -13,10 +13,10 @@
                 "fbinter":"383977558280079x_3845414495570234",
                 "fbnative":"383977558280079x_3845415395570144",
                 
-                "unityGameID":"4082603", 
+                "unityGameID":"4117593", 
                 "unityrewardId":"video",
-                "unitybanner":"bannerOxoo",
-                "unityinter":"inter",
+                "unitybanner":"bannerCinemaHD",
+                "unityinter":"interCinemaHD",
 
                 "startapp_id":"XXXXXXXXXXX",
 
