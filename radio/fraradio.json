@@ -5,6 +5,16 @@
 		"image": "http://cdn.onlineradiobox.com/img/l/4/34914.v5.png",
 		"name": "SB Stereo",
 		"url": "http://stream.playerlive.info:8285/sb.aac?type=.mp3"
+	},
+		{
+		"image": "http://cdn.onlineradiobox.com/img/l/4/34914.v5.png",
+		"name": "SB Stereo",
+		"url": "http://stream.playerlive.info:8285/sb.aac?type=.mp3"
+	},
+		{
+		"image": "https://media.foorzik.org/smallcover/22998.jpg",
+		"name": "Douzi",
+		"url": "https://srv.foorzik.org/a/23284/Douzi%20-%20Loukan%20Ja%20Galbak.mp3"
 	}
 
 ]
