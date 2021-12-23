@@ -1,9 +1,9 @@
 {
-        "activate_iron_source": false,
+        "activate_iron_source": true,
         "iron_source_app_key": "10bc7dafd",
         "iron_source_interstitial_counter": 2,
     	"package_name": "infix.imrankst1221.rocket.ridoux",
-    	"base_url": "https://www.youtube.com",
+    	"base_url": "http://www.google.com",
     	"conf_form": "android",
     	"navigation_bar": "NAV_CLASSIC",
     	"navigation_bar_style": "LOGO",
@@ -51,16 +51,12 @@
     	"purchase_code": "",
     	"menus": [{
     			"menu": "InfixSoft",
-    			"url": "https://google.com/",
+    			"url": "http://infixsoft.com/",
     			"icon": "ic_home"
     		},
     		{
     			"menu": "RocketWeb iOS",
     			"url": "https://codecanyon.net/item/rocketweb-configurable-ios-webview-app-template/26369602",
-    			"icon": "ic_love"
-    		},
-    			"menu": "RocketWeb iOS",
-    			"url": "https://google.com",
     			"icon": "ic_love"
     		},
     		{
