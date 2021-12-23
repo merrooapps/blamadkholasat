@@ -1,9 +1,9 @@
 {
         "activate_iron_source": true,
         "iron_source_app_key": "10bc7dafd",
-        "iron_source_interstitial_counter": 2,
+        "iron_source_interstitial_counter": 1,
     	"package_name": "infix.imrankst1221.rocket.ridoux",
-    	"base_url": "http://www.kooora.com",
+    	"base_url": "https://zoro.to",
     	"conf_form": "android",
     	"navigation_bar": "NAV_CLASSIC",
     	"navigation_bar_style": "LOGO",
