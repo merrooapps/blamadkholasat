@@ -3,7 +3,7 @@
         "iron_source_app_key": "10bc7dafd",
         "iron_source_interstitial_counter": 1,
     	"package_name": "infix.imrankst1221.rocket.ridoux",
-    	"base_url": "https://mangareader.to",
+    	"base_url": "http://zoroapp.tk/",
     	"conf_form": "android",
     	"navigation_bar": "NAV_CLASSIC",
     	"navigation_bar_style": "LOGO",
@@ -29,15 +29,15 @@
     	"permission_dialog": true,
     	"splash_screen": true,
     	"splash_screen_type": "STANDER",
-    	"splash_qoute": "A Smart and Reliable Android WebApp Solution",
-    	"splash_footer": "Made with InfixSoft",
+    	"splash_qoute": "A Smart  Solution",
+    	"splash_footer": "Made with mangareader",
     	"swipe_refresh": false,
     	"website_zoom": false,
     	"desktop_mood": false,
     	"fullscreen": false,
     	"rtl_mood": false,
     	"about_text": "We are a team of professional designers &amp; developers known as InfixSoft. We are providing business solutions with services in Android, iOS and website application design and development. We guarantee all of our work, and, that you will be happy. Let\u2019s us complete your project.",
-    	"about_email": "imrankst1221@gmail.com",
+    	"about_email": "mangareader@gmail.com",
     	"about_mobile": "",
     	"about_website": "",
     	"loading_text": "Loading",
@@ -50,31 +50,16 @@
     	"menu_header_details": "A webview solution",
     	"purchase_code": "",
     	"menus": [{
-    			"menu": "InfixSoft",
-    			"url": "http://infixsoft.com/",
+    			"menu": "Home",
+    			"url": "http://zoroapp.tk//",
     			"icon": "ic_home"
     		},
     		{
-    			"menu": "RocketWeb iOS",
-    			"url": "https://codecanyon.net/item/rocketweb-configurable-ios-webview-app-template/26369602",
+    			"menu": "trending",
+    			"url": "http://zoroapp.tk/",
     			"icon": "ic_love"
     		},
-                {
-    			"menu": "kooora",
-    			"url": "https://kooora.com",
-    			"icon": "ic_love"
-    		},
-    		{
-    			"menu": "RocketWeb Android",
-    			"url": "https://codecanyon.net/item/rocketweb-android-web-app-solution-webtoapp/22985174",
-    			"icon": "ic_love"
-    		},
-    		{
-    			"menu": "Help",
-    			"url": "http://help.infixsoft.com/",
-    			"icon": "ic_help"
-    		},
-    		{
+       		{
     			"menu": "Share",
     			"url": "SHARE",
     			"icon": "ic_share"
