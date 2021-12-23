@@ -12,7 +12,7 @@
     	"theme_color": "THEME_PRIMARY",
     	"loader_style": "LOADER_DEFAULT",
     	"loader_int_time": 10,
-    	"admob_id": "ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy",
+    	"admob_id": "ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyy",
     	"key_ad_banner": "ca-app-pub-3940256099942544x/6300978111",
     	"key_ad_banner_delay": 10,
     	"key_ad_interstitial": "ca-app-pub-3940256099942544x/1033173712",
