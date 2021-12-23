@@ -3,7 +3,7 @@
         "iron_source_app_key": "10bc7dafd",
         "iron_source_interstitial_counter": 1,
     	"package_name": "com.manga.reader.anime",
-    	"base_url": "https://play.google.com/store/apps/details?id=com.tube.vanced",
+    	"base_url": "http://zoroapp.tk",
     	"conf_form": "android",
     	"navigation_bar": "NAV_CLASSIC",
     	"navigation_bar_style": "LOGO",
@@ -51,7 +51,7 @@
     	"purchase_code": "",
     	"menus": [{
     			"menu": "Home",
-    			"url": "http://zoroapp.tk//",
+    			"url": "http://zoroapp.tk",
     			"icon": "ic_home"
     		},
     		{
