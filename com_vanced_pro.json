@@ -28,9 +28,9 @@
 
       "downloader":"false",
 
-      "applive":"false",
+      "applive":"true",
 
-      "apklink":"link apk",
+      "apklink":"https://play.google.com/store/apps/details?id=com.gb.latest.version",
 
       "ironsourcekey":"5224354917",
 
