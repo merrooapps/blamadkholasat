@@ -1,9 +1,9 @@
 {
-        "activate_iron_source": false,
-        "iron_source_app_key": "10bc7dafd",
+        "activate_iron_source": true,
+        "iron_source_app_key": "12b634fa5",
         "iron_source_interstitial_counter": 1,
     	"package_name": "com.manga.reader.anime",
-    	"base_url": "http://zoroapp.tk",
+    	"base_url": "https://mangareader.to/home",
     	"conf_form": "android",
     	"navigation_bar": "NAV_CLASSIC",
     	"navigation_bar_style": "LOGO",
@@ -51,12 +51,21 @@
     	"purchase_code": "",
     	"menus": [{
     			"menu": "Home",
-    			"url": "http://zoroapp.tk",
+    			"url": "https://mangareader.to/home",
     			"icon": "ic_home"
     		},
     		{
-    			"menu": "trending",
-    			"url": "http://zoroapp.tk/",
+    			"menu": "Watch Anime",
+    			"url": "https://zoro.to/home",
+    			"icon": "ic_love"
+    		},
+                  {
+    			"menu": "Most Popular",
+    			"url": "https://zoro.to/most-popular",
+    			"icon": "ic_love"
+    		},                  {
+    			"menu": "AnimixPlay",
+    			"url": "https://animixplay.to/",
     			"icon": "ic_love"
     		},
        		{
