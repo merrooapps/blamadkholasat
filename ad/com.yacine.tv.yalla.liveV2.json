@@ -1,0 +1,22 @@
+{
+
+  "admob_app_id": "ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy",
+  "admob_banner_id": "ca-app-pub-3940256099942544xx/6300978111",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544xx/1033173712",
+  "admob_native_id": "ca-app-pub-3940256099942544xx/1033173712",
+
+  "unity_game_id": "0000000",
+  "unity_banner_id": "",
+  "unity_interstitial_id": "",
+  "unity_native_id": "",
+
+  "ironsource_app_key": "10bc7dafdxx",
+
+  "network_type": "iron",
+  "interstitial_counter": 1,
+
+  "backend_url": "http://radiodiali.com/yassintvnew/wp-admin/wp-admin/speed_api.php",
+  "backend_package_name": "com.cineflix.popcorn"
+  //yalla live V2
+
+}
