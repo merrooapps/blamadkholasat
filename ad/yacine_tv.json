@@ -13,7 +13,7 @@
   "ironsource_app_key": "10bc7dafd",
 
   "network_type": "iron",
-  "interstitial_counter": 1,
+  "interstitial_counter": 10,
 
   "backend_url": "http://radiodiali.com/yassintvnew/wp-admin/wp-admin/speed_api.php",
   "backend_package_name": "com.cineflix.popcorn"
