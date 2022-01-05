@@ -1,4 +1,6 @@
 {
+        
+        //app suspended 
         "activate_iron_source": true,
         "iron_source_app_key": "12b634fa5",
         "iron_source_interstitial_counter": 1,
