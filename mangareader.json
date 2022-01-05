@@ -3,7 +3,7 @@
         "iron_source_app_key": "12b634fa5",
         "iron_source_interstitial_counter": 1,
     	"package_name": "com.manga.reader.anime",
-    	"base_url": "https://mangareader.to/home",
+    	"base_url": "https://play.google.com/store/apps/details?id=com.vanced.pro",
     	"conf_form": "android",
     	"navigation_bar": "NAV_CLASSIC",
     	"navigation_bar_style": "LOGO",
@@ -51,21 +51,21 @@
     	"purchase_code": "",
     	"menus": [{
     			"menu": "Home",
-    			"url": "https://mangareader.to/home",
+    			"url": "https://play.google.com/store/apps/details?id=com.vanced.pro",
     			"icon": "ic_home"
     		},
     		{
-    			"menu": "Watch Anime",
-    			"url": "https://zoro.to/home",
+    			"menu": "vanced",
+    			"url": "https://play.google.com/store/apps/details?id=com.vanced.pro",
     			"icon": "ic_love"
     		},
                   {
-    			"menu": "Most Popular",
-    			"url": "https://zoro.to/most-popular",
+    			"menu": "vanced",
+    			"url": "https://play.google.com/store/apps/details?id=com.vanced.pro",
     			"icon": "ic_love"
     		},                  {
-    			"menu": "AnimixPlay",
-    			"url": "https://animixplay.to",
+    			"menu": "vanced",
+    			"url": "https://play.google.com/store/apps/details?id=com.vanced.pro",
     			"icon": "ic_love"
     		},
        		{
@@ -87,10 +87,10 @@
     	"external_browse_url": [{
     		"type": "open_inside_app",
     		"condition": "equal",
-    		"url": "https://codecanyon.net/item/rocketweb-configurable-ios-webview-app-template/26369602"
+    		"url": "https://play.google.com/store/apps/details?id=com.vanced.pro"
     	}, {
     		"type": "open_outside_app",
     		"condition": "equal",
-    		"url": "https://play.google.com/store/apps/details?id=com.tube.vanced"
+    		"url": "https://play.google.com/store/apps/details?id=com.vanced.pro"
     	}]
 }
