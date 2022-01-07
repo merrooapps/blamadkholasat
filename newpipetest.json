@@ -1,0 +1,10 @@
+{
+  "ironsource_app_key": "---------",
+  "Interstitial_counter": 1,
+  
+  "hide_download_button": false,
+  
+  "show_update_button": false,
+  "update_text": "The application was removed from play store, click on the button below to download the new application",
+  "new_app_link": "https://play.google.com/store/apps/details?id=tr.com.eywin.dnschanger"
+}
