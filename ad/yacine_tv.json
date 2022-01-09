@@ -15,8 +15,11 @@
   "network_type": "iron",
   "interstitial_counter": 3,
 
-  "backend_url": "http://radiodiali.com/yassintvnew/wp-admin/wp-admin/speed_api.php",
-  "backend_package_name": "com.cineflix.popcorn"
+  //"backend_url": "http://radiodiali.com/yassintvnew/wp-admin/wp-admin/speed_api.php",
+  //"backend_package_name": "com.cineflix.popcorn"
+    "backend_url": "https://mxradio.online/nemosofts/yallaliveiron/speed_api.php",
+  "backend_package_name": "com.yacine.tv.yalla.live"
+
   //tv.tacine guide kanto o bdeltha to live.nettv
 
 }
