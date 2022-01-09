@@ -1,9 +1,9 @@
 {
 
   "admob_app_id": "ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy",
-  "admob_banner_id": "ca-app-pub-3940256099942544xx/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544xx/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544xx/1033173712",
+  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native_id": "ca-app-pub-3940256099942544/1033173712",
 
   "unity_game_id": "3875507",
   "unity_banner_id": "BannerEuropix",
@@ -12,7 +12,7 @@
 
   "ironsource_app_key": "10bc7dafdxx",
 
-  "network_type": "unity",
+  "network_type": "admob",
   "interstitial_counter": 1,
 
   "backend_url": "https://mxradio.online/nemosofts/yallaliveiron/speed_api.php",
