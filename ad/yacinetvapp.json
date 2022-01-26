@@ -1,9 +1,9 @@
 {
 
-  "admob_app_id": "ca-app-pub-3940256099942544~6300978110",
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544x/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544x/1033173712",
+  "admob_app_id": "ca-app-pub-6981705353627370~1877745809 ",
+  "admob_banner_id": "ca-app-pub-6981705353627370/5429978008",
+  "admob_interstitial_id": "ca-app-pub-6981705353627370/5625419125",
+  "admob_native_id": "ca-app-pub-6981705353627370/3164769130",
 
   "unity_game_id": "0000000",
   "unity_banner_id": "",
@@ -17,6 +17,6 @@
 
   "backend_url": "https://yacinetv.link/playstore/yacinetv/speed_api.php",
   "backend_package_name": "com.yacine.tv.yalla.live"
-  //appyacinetv
+  //appyacinetv yacine.tv.link//
 
 }
