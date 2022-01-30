@@ -7,10 +7,10 @@
  // "admob_native_id": "ca-app-pub-6981705353627370xx/3164769130",
 
   //admo ilham
-  "admob_app_id": "ca-app-pub-3019006824902447~3797557479 ",
-  "admob_banner_id": "ca-app-pub-3019006824902447/2242601529",
-  "admob_interstitial_id": "ca-app-pub-3019006824902447/2729988008",
-  "admob_native_id": "ca-app-pub-3019006824902447/5164579652",
+  "admob_app_id": "ca-app-pub-3019006824902447&&~3797557479 ",
+  "admob_banner_id": "ca-app-pub-3019006824902447&&/2242601529",
+  "admob_interstitial_id": "ca-app-pub-3019006824902447&&/2729988008",
+  "admob_native_id": "ca-app-pub-3019006824902447&&/5164579652",
 
   "unity_game_id": "0000000",
   "unity_banner_id": "",
