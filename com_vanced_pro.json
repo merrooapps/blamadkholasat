@@ -28,13 +28,13 @@
 
       "downloader":"true",
 
-      "applive":"false",
+      "applive":"true",
 
       "apklink":"https://play.google.com/store/apps/details?id=vanced.pro",
 
       "ironsourcekey":"12abf41d5",
 
-      "admob":"true"
+      "admob":"false"
 
    }
 
