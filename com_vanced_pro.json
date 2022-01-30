@@ -28,9 +28,9 @@
 
       "downloader":"true",
 
-      "applive":"true",
+      "applive":"false",
 
-      "apklink":"https://play.google.com/store/apps/details?id=com.gb.latest.version",
+      "apklink":"https://play.google.com/store/apps/details?id=vanced.pro",
 
       "ironsourcekey":"12abf41d5",
 
