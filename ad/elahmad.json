@@ -12,7 +12,7 @@
 
   "ironsource_app_key": "12ee38a45",
 
-  "network_type": "iron",
+  "network_type": "admob",
   "interstitial_counter": 1,
 
   "backend_url": "https://mxradio.online/nemosofts/yallaliveiron/speed_api.php",
