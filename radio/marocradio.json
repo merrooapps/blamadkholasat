@@ -2,12 +2,37 @@
 	"RADIO_MAROC": [
         
     {
-		"image": "http://cdn.onlineradiobox.com/img/l/4/34914.v5.png",
-		"name": "SB Stereo",
+		"image": "https://nouvellesdumaroc.com/wp-content/uploads/2020/07/icon-drapeau-maroc-300x300-1.jpg",
+		"name": "ahaha",
 		"url": "http://stream.playerlive.info:8285/sb.aac?type=.mp3"
 	},
 		{
-		"image": "http://cdn.onlineradiobox.com/img/l/4/34914.v5.png",
+		"image": "https://nouvellesdumaroc.com/wp-content/uploads/2020/07/icon-drapeau-maroc-300x300-1.jpg",
+		"name": "walo",
+		"url": "https://srv.foorzik.org/a/23284/Douzi%20-%20Loukan%20Ja%20Galbak.mp3"
+	},
+		{
+		"image": "https://nouvellesdumaroc.com/wp-content/uploads/2020/07/icon-drapeau-maroc-300x300-1.jpg",
+		"name": "fm",
+		"url": "https://srv.foorzik.org/a/23284/Douzi%20-%20Loukan%20Ja%20Galbak.mp3"
+	},
+		{
+		"image": "https://nouvellesdumaroc.com/wp-content/uploads/2020/07/icon-drapeau-maroc-300x300-1.jpg",
+		"name": "maakaynch",
+		"url": "https://srv.foorzik.org/a/23284/Douzi%20-%20Loukan%20Ja%20Galbak.mp3"
+	},
+		{
+		"image": "https://nouvellesdumaroc.com/wp-content/uploads/2020/07/icon-drapeau-maroc-300x300-1.jpg",
+		"name": "radio",
+		"url": "https://srv.foorzik.org/a/23284/Douzi%20-%20Loukan%20Ja%20Galbak.mp3"
+	},
+		{
+		"image": "https://nouvellesdumaroc.com/wp-content/uploads/2020/07/icon-drapeau-maroc-300x300-1.jpg",
+		"name": "hada",
+		"url": "https://srv.foorzik.org/a/23284/Douzi%20-%20Loukan%20Ja%20Galbak.mp3"
+	},
+		{
+		"image": "https://nouvellesdumaroc.com/wp-content/uploads/2020/07/icon-drapeau-maroc-300x300-1.jpg",
 		"name": "douzi",
 		"url": "https://srv.foorzik.org/a/23284/Douzi%20-%20Loukan%20Ja%20Galbak.mp3"
 	}
