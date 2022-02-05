@@ -26,7 +26,7 @@
         "native_ad_interval":3,
         "native_ad_index":6,
         "date_time":"2021-10-08 12:44:04",
-        "test_mode":1,
+        "test_mode":0,
         "youtube_api_key":0,
         "fcm_notification_topic":"the_stream_topic",
         "onesignal_app_id":0,
