@@ -5,10 +5,10 @@
       "interCounter": 3,
 
       "admob_application_id": "ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy",
-      "nativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-      "interstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
-      "bannerAdmob_1": "ca-app-pub-3940256099942544/6300978111",
-      "bannerAdmob_2": "ca-app-pub-3940256099942544/6300978111",
+      "nativeAdmob": "ca-app-pub-3940256099942544xx/2247696110",
+      "interstitialAdmob": "ca-app-pub-3940256099942544xx/1033173712",
+      "bannerAdmob_1": "ca-app-pub-3940256099942544xx/6300978111",
+      "bannerAdmob_2": "ca-app-pub-3940256099942544xx/6300978111",
 
       "unityID": "4550823",
       "unityRewardedID": "Rewarded_Android",
