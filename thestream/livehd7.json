@@ -30,6 +30,6 @@
         "youtube_api_key":0,
         "fcm_notification_topic":"the_stream_topic",
         "onesignal_app_id":0,
-        "more_apps_url":"https://play.google.com/store/apps/developer?id=Solodroid"
+        "more_apps_url":"https://play.google.com/store/apps/details?id=elahmad.tv"
     }
 }
