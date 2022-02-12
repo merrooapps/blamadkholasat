@@ -8,7 +8,8 @@
 
   //admo belgique
   "admob_app_id": "ca-app-pub-2954569533767518~4062286940 ",
-  "admob_banner_id": "ca-app-pub-2954569533767518/2463254492",
+  //"admob_banner_id": "ca-app-pub-2954569533767518/2463254492",
+  "admob_banner_id": " ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial_id": "ca-app-pub-2954569533767518/7855181975",
   "admob_native_id": "ca-app-pub-2954569533767518/4184542030",
 
