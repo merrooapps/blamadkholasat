@@ -2,15 +2,15 @@
 
   "config" : {
 
-    "mode_ads_both_admob_unity": false,
+    "mode_ads_both_admob_unity": true,
 
-    "mode_ads_banner" : "admob",
+    "mode_ads_banner" : "unity",
 
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_interstitial" : "unity",
 
-    "mode_ads_native_enabled" : true,
+    "mode_ads_native_enabled" : false,
 
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_rewarded" : "unity",
 
     "mode_button_ads_action" : "5",
 
@@ -30,15 +30,15 @@
 
       "admob_unit_id" : "",
 
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_banner_id" : "ca-app-pub-cc/6300978111",
 
-      "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
+      "admob_interstitial_id" : "ca-app-pub-cc/1033173712",
 
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_native_id" : "ca-app-pub-cc/2247696110",
 
-      "admob_rewarded_id" : "ca-app-pub-3940256099942544/5224354917",
+      "admob_rewarded_id" : "ca-app-pub-cc/5224354917",
 
-      "admob_app_open" : "ca-app-pub-3940256099942544/3419835294"
+      "admob_app_open" : "ca-app-pub-cc/3419835294"
 
     },
 
