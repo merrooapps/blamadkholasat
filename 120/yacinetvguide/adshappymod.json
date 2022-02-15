@@ -1,0 +1,27 @@
+{
+  "ADS": [
+    {
+      "adNetwork": "admob",
+      "interCounter": 1,
+
+      "admob_application_id": "ca-app-pub-3940256099942544~4914427517",
+      "nativeAdmob": "ca-app-pub-3940256099942544/6300978111",
+      "interstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+      "bannerAdmob_1": "ca-app-pub-3940256099942544/6300978111",
+      "bannerAdmob_2": "ca-app-pub-3940256099942544/6300978111",
+
+      "unityID": "XXXXXX",
+      "unityRewardedID": "Rewarded_Android",
+      "unityRewardedOfficialAppLink": "https://play.google.com/store/apps/details?id=io.jmobile.browser",
+      "unityInterID": "Interstitial_Android",
+      "unityBannerID_1": "Banner_Android",
+      "unityBannerID_2": "Banner_Android",
+
+      "interstitialFacebook": "YOUR_PLACEMENT_ID",
+      "bannerFacebook": "YOUR_PLACEMENT_ID",
+      "nativeFacebook": "YOUR_PLACEMENT_ID",
+      "nativeBannerFacebook": "YOUR_PLACEMENT_ID"
+    }
+  ],
+  "error": false
+}
