@@ -1,7 +1,7 @@
 {
   "ADS": [
     {
-      "adNetwork": "admob",
+      "adNetwork": "unity",
       "interCounter": 1,
 
       "admob_application_id": "ca-app-pub-3844581176339820~4914427517",
@@ -10,9 +10,9 @@
       "bannerAdmob_1": "ca-app-pub-3844581176339820/7171063379",
       "bannerAdmob_2": "ca-app-pub-3844581176339820/7171063379",
 
-      "unityID": "XXXXXX",
+      "unityID": "4625613",
       "unityRewardedID": "Rewarded_Android",
-      "unityRewardedOfficialAppLink": "https://play.google.com/store/apps/details?id=io.jmobile.browser",
+      "unityRewardedOfficialAppLink": "https://play.google.com/store/apps/details?id=yacine.tv.link",
       "unityInterID": "Interstitial_Android",
       "unityBannerID_1": "Banner_Android",
       "unityBannerID_2": "Banner_Android",
