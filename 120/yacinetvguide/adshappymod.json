@@ -10,12 +10,12 @@
       "bannerAdmob_1": "ca-app-pub-3844581176339820/5200080544",
       "bannerAdmob_2": "ca-app-pub-3844581176339820/5200080544",
 
-      "unityID": "4112798",
-      "unityRewardedID": "Rewarded_Android",
+      "unityID": "4112799",
+      "unityRewardedID": "interYacine",
       "unityRewardedOfficialAppLink": "https://play.google.com/store/apps/details?id=livehd7.live.app",
-      "unityInterID": "Interstitial_Android",
-      "unityBannerID_1": "Banner_Android",
-      "unityBannerID_2": "Banner_Android",
+      "unityInterID": "interstitialYacinePlay",
+      "unityBannerID_1": "Banner",
+      "unityBannerID_2": "Banner",
 
       "interstitialFacebook": "YOUR_PLACEMENT_ID",
       "bannerFacebook": "YOUR_PLACEMENT_ID",
