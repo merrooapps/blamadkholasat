@@ -1,12 +1,12 @@
 {
   "ADS": [
     {
-      "adNetwork": "unity",
+      "adNetwork": "admob",
       "interCounter": 1,
 
       "admob_application_id": "ca-app-pub-3844581176339820~4914427517",
       "nativeAdmob": "ca-app-pub-3844581176339820xxxx/1727165002xx",
-      "interstitialAdmob": "ca-app-pub-3844581176339820/4544900036",
+      "interstitialAdmob": "//ca-app-pub-3844581176339820xx/4544900036",
       "bannerAdmob_1": "ca-app-pub-3844581176339820/7171063379",
       "bannerAdmob_2": "ca-app-pub-3844581176339820/7171063379",
 
