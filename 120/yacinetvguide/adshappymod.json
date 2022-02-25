@@ -1,7 +1,7 @@
 {
   "ADS": [
     {
-      "adNetwork": "admob",
+      "adNetwork": "unity",
       "interCounter": 1,
 
       "admob_application_id": "ca-app-pub-2962349681035425~4185972654",
