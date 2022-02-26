@@ -2,7 +2,7 @@
   "ADS": [
     {
       "adNetwork": "admob",
-      "interCounter": 1,
+      "interCounter": 3,
 
       "admob_application_id": "ca-app-pub-3940256099942544~xxxxxxxx",
       "nativeAdmob": "ca-app-pub-3940256099942544/xxxxxxxx",
