@@ -1,14 +1,14 @@
 {
   "ADS": [
     {
-      "adNetwork": "unity",
+      "adNetwork": "admob",
       "interCounter": 1,
 
-      "admob_application_id": "ca-app-pub-3844581176339820~4914427517",
-      "nativeAdmob": "ca-app-pub-3844581176339820xxxx/1727165002xx",
-      "interstitialAdmob": "//ca-app-pub-3844581176339820xx/4544900036",
-      "bannerAdmob_1": "ca-app-pub-3844581176339820/7171063379",
-      "bannerAdmob_2": "ca-app-pub-3844581176339820/7171063379",
+      "admob_application_id": "ca-app-pub-3940256099942544~xxxxxxxx",
+      "nativeAdmob": "ca-app-pub-3940256099942544/xxxxxxxx",
+      "interstitialAdmob": "ca-app-pub-3844581176339820/9559117638",
+      "bannerAdmob_1": "ca-app-pub-3844581176339820/6119438218",
+      "bannerAdmob_2": "ca-app-pub-3844581176339820/xxxxxxxx",
 
       "unityID": "4625613",
       "unityRewardedID": "Rewarded_Android",
