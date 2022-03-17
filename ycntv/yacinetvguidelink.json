@@ -4,14 +4,15 @@
     "ads":{
         "id":1,
         "ad_status":"on",
-        "ad_type":"unity",
+        "ad_type":"admob",
         
-        "admob_publisher_id":"pub-9629059851923613",
-        "admob_app_id":"ca-app-pub-9629059851923613~9942825661",
-        "admob_banner_unit_id":"ca-app-pub-9629059851923613/9365322733",
-        "admob_interstitial_unit_id":"ca-app-pub-9629059851923613/5426077728",
-        "admob_native_unit_id":"ca-app-pub-9629059851923613/4112996057",
-        "admob_app_open_ad_unit_id":"ca-app-pub-9629059851923613/3488511224",
+        "admob_publisher_id":"pub-9660769788880695",
+        "admob_app_id":"ca-app-pub-9660769788880695~2433803052",
+        "admob_banner_unit_id":"ca-app-pub-9660769788880695/3584939480",
+        "admob_interstitial_unit_id":"ca-app-pub-9660769788880695/xx6538405880",
+        "admob_native_unit_id":"ca-app-pub-9660769788880695/4706449461",
+        "admob_app_open_ad_unit_id":"ca-app-pub-9660769788880695/8454122785",
+        
         "fan_banner_unit_id":0,
         "fan_interstitial_unit_id":0,
         "fan_native_unit_id":0,
