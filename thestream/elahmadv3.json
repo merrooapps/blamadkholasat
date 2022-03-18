@@ -1,10 +1,10 @@
 {
     "status":"ok",
-    "server":"http://zoroapp.tk/elahmadtvstream/admin_panel",
+    "server":"https://yacinetv.link/nulled/thestreamcode",
     "ads":{
         "id":1,
         "ad_status":"on",
-        "ad_type":"admob",
+        "ad_type":"unity",
         
         "admob_publisher_id":"pub-96290598519236xx",
         "admob_app_id":"ca-app-pub-96290598519236xx~9942825661",
@@ -23,7 +23,7 @@
         "applovin_interstitial_ad_unit_id":0,
         "mopub_banner_ad_unit_id":0,
         "mopub_interstitial_ad_unit_id":0,
-        "interstitial_ad_interval":20,
+        "interstitial_ad_interval":2,
         "native_ad_interval":6,
         "native_ad_index":6,
         "date_time":"2021-10-08 12:44:04",
