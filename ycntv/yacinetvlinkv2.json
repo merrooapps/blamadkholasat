@@ -9,7 +9,7 @@
         "admob_publisher_id":"pub-1713954877230434",
         "admob_app_id":"ca-app-pub-1713954877230434~1865992693",
         "admob_banner_unit_id":"ca-app-pub-1713954877230434/7814261869",
-        "admob_interstitial_unit_id":"ca-app-pub-1713954877230434xx/xx8106778044",
+        "admob_interstitial_unit_id":"ca-app-pub-1713954877230434/8106778044",
         "admob_native_unit_id":"ca-app-pub-1713954877230434/6793696378",
         "admob_app_open_ad_unit_id":"ca-app-pub-1713954877230434/2854451367",
         
@@ -24,7 +24,7 @@
         "applovin_interstitial_ad_unit_id":0,
         "mopub_banner_ad_unit_id":0,
         "mopub_interstitial_ad_unit_id":0,
-        "interstitial_ad_interval":1,
+        "interstitial_ad_interval":2,
         "native_ad_interval":6,
         "native_ad_index":6,
         "date_time":"2021-10-08 12:44:04",
