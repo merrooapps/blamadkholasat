@@ -1,0 +1,37 @@
+{
+    "status":"ok",
+    "server":"http://zoroapp.tk/elahmadtvstream/admin_panel",
+    "ads":{
+        "id":1,
+        "ad_status":"on",
+        "ad_type":"admob",
+        
+        "admob_publisher_id":"pub-96607697888806xx",
+        "admob_app_id":"ca-app-pub-96607697888806xx~2433803052",
+        "admob_banner_unit_id":"ca-app-pub-96607697888806xx/3584939480",
+        "admob_interstitial_unit_id":"ca-app-pub-96607697888806xx/6538405880",
+        "admob_native_unit_id":"ca-app-pub-96607697888806xx/4706449461",
+        "admob_app_open_ad_unit_id":"ca-app-pub-96607697888806xx/8454122785",
+        
+        "fan_banner_unit_id":0,
+        "fan_interstitial_unit_id":0,
+        "fan_native_unit_id":0,
+        "startapp_app_id":0,
+        "unity_game_id":4625613,
+        "unity_banner_placement_id":"Banner_Android",
+        "unity_interstitial_placement_id":"Interstitial_Android",
+        "applovin_banner_ad_unit_id":0,
+        "applovin_interstitial_ad_unit_id":0,
+        "mopub_banner_ad_unit_id":0,
+        "mopub_interstitial_ad_unit_id":0,
+        "interstitial_ad_interval":1,
+        "native_ad_interval":6,
+        "native_ad_index":6,
+        "date_time":"2021-10-08 12:44:04",
+        "test_mode":0,
+        "youtube_api_key":0,
+        "fcm_notification_topic":"the_stream_topic",
+        "onesignal_app_id":"09efaabf-d973-4f49-84ee-03a20d857dc6",
+        "more_apps_url":"https://play.google.com/store/apps/developer?id=test"
+    }
+}
