@@ -9,7 +9,7 @@
         "admob_publisher_id":"pub-9782549440932401",
         "admob_app_id":"ca-app-pub-9782549440932401~7731824203",
         "admob_banner_unit_id":"ca-app-pub-9782549440932401/6769617398",
-        "admob_interstitial_unit_id":"ca-app-pub-9782549440932401xx/5456535728",
+        "admob_interstitial_unit_id":"ca-app-pub-9782549440932401/5456535728",
         "admob_native_unit_id":"ca-app-pub-9782549440932401/4143454055",
         "admob_app_open_ad_unit_id":"ca-app-pub-9782549440932401/8878558375",
 
@@ -25,7 +25,7 @@
         "applovin_interstitial_ad_unit_id":0,
         "mopub_banner_ad_unit_id":0,
         "mopub_interstitial_ad_unit_id":0,
-        "interstitial_ad_interval":20,
+        "interstitial_ad_interval":2,
         "native_ad_interval":6,
         "native_ad_index":6,
         "date_time":"2021-10-08 12:44:04",
