@@ -3,7 +3,7 @@
     "server":"http://zoroapp.tk/elahmadtvstream/admin_panel",
     "ads":{
         "id":1,
-        "ad_status":"off",
+        "ad_status":"on",
         "ad_type":"admob",
         "activate_ironsource_banner": true,
         "activate_ironsource_interstitial": true,
