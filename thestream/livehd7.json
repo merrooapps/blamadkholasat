@@ -23,7 +23,7 @@
         "applovin_interstitial_ad_unit_id":0,
         "mopub_banner_ad_unit_id":0,
         "mopub_interstitial_ad_unit_id":0,
-        "interstitial_ad_interval":1,
+        "interstitial_ad_interval":3,
         "native_ad_interval":3,
         "native_ad_index":6,
         "date_time":"2021-10-08 12:44:04",
