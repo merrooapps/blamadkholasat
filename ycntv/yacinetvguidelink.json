@@ -6,12 +6,12 @@
         "ad_status":"on",
         "ad_type":"unity",
         
-        "admob_publisher_id":"pub-3844581176339820",
-        "admob_app_id":"ca-app-pub-3844581176339820~7274339847",
-        "admob_banner_unit_id":"ca-app-pub-3844581176339820/4023992998",
-        "admob_interstitial_unit_id":"ca-app-pub-3844581176339820/9650905958",
-        "admob_native_unit_id":"ca-app-pub-3844581176339820/1397829653",
-        "admob_app_open_ad_unit_id":"ca-app-pub-3844581176339820/1061668172",
+        "admob_publisher_id":"pub-3844581176339820xx",
+        "admob_app_id":"ca-app-pub-3844581176339820xx~7274339847",
+        "admob_banner_unit_id":"ca-app-pub-3844581176339820xx/4023992998",
+        "admob_interstitial_unit_id":"ca-app-pub-3844581176339820xx/9650905958",
+        "admob_native_unit_id":"ca-app-pub-3844581176339820xx/1397829653",
+        "admob_app_open_ad_unit_id":"ca-app-pub-3844581176339820xx/1061668172",
         
         "fan_banner_unit_id":0,
         "fan_interstitial_unit_id":0,
