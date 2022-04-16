@@ -3,7 +3,7 @@
     "server":"https://yacinetv.link/nulled/thestreamcode",
     "ads":{
         "id":1,
-        "ad_status":"off",
+        "ad_status":"on",
         "ad_type":"admob",
         "activate_ironsource_banner": false,
         "activate_ironsource_interstitial": true,
