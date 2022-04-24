@@ -33,6 +33,6 @@
         "youtube_api_key":0,
         "fcm_notification_topic":"the_stream_topic",
         "onesignal_app_id": "fa96fe28-10f0-409a-be7f-d8eac0abe5a5",
-        "more_apps_url":"https://play.google.com/store/apps/details?id=com.ytv.app"
+        "more_apps_url":"https://play.google.com/store/apps/details?id=ytv.app"
     }
 }
