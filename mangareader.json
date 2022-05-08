@@ -2,7 +2,7 @@
         
         //app suspended 
         "activate_iron_source": true,
-        "iron_source_app_key": "12b634fa5",
+        "iron_source_app_key": "xxxxxxxx",
         "iron_source_interstitial_counter": 1,
     	"package_name": "com.manga.reader.anime",
     	"base_url": "https://zoro.to/top-airing",
