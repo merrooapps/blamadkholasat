@@ -2,7 +2,7 @@
     "status":"ok",
     "server":"http://zoroapp.tk/thestreamkhawya/admin_panel/admin_panel",
     "ads":{
-        "id":1,
+        "id":0,
         "ad_status":"on",
         "ad_type":"applovin",
         "activate_ironsource_banner": false,
