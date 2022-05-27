@@ -4,7 +4,7 @@
     "ads":{
         "id":1,
         "ad_status":"on",
-        "ad_type":"unity",
+        "ad_type":"admob",
         "activate_ironsource_banner": false,
         "activate_ironsource_interstitial": false,
         "ironsource_app_key": "146afac29",
