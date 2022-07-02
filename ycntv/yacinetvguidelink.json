@@ -4,7 +4,7 @@
     "ads":{
         "id":1,
         "ad_status":"on",
-        "ad_type":"admob",
+        "ad_type":"unity",
         
         "admob_publisher_id":"pub-2962349681035425",
         "admob_app_id":"ca-app-pub-2962349681035425~2421911293",
