@@ -4,9 +4,9 @@
     "ads":{
         "id":1,
         "ad_status":"on",
-        "ad_type":"applovin",
-        "activate_ironsource_banner": true,
-        "activate_ironsource_interstitial": true,
+        "ad_type":"admob",
+        "activate_ironsource_banner": false,
+        "activate_ironsource_interstitial": false,
         "ironsource_app_key": "14ba97349",
         "admob_publisher_id":"pub-296234968103542xx",
         "admob_app_id":"ca-app-pub-296234968103542xx~6334755740",
