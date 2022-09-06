@@ -4,12 +4,12 @@
     "ads":{
         "id":1,
         "ad_status":"on",
-        "ad_type":"unity",
+        "ad_type":"admob",
         
         "admob_publisher_id":"pub-6981705353627370",
         "admob_app_id":"ca-app-pub-6981705353627370~7247847708",
         "admob_banner_unit_id":"ca-app-pub-6981705353627370/9158578529",
-        "admob_interstitial_unit_id":"ca-app-pub-6981705353627370xx/6761028781",
+        "admob_interstitial_unit_id":"ca-app-pub-6981705353627370/6761028781",
         "admob_native_unit_id":"ca-app-pub-6981705353627370/4134865449",
         "admob_app_open_ad_unit_id":"ca-app-pub-6981705353627370/8030163833",
         
