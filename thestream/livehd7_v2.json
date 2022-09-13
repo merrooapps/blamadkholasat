@@ -4,7 +4,7 @@
     "ads":{
         "id":1,
         "ad_status":"on",
-        "ad_type":"admob",
+        "ad_type":"unity",
         "activate_ironsource_banner": false,
         "activate_ironsource_interstitial": false,
         "ironsource_app_key": "xxxxxxxxx146afac29",
@@ -25,7 +25,7 @@
         "applovin_interstitial_ad_unit_id":0,
         "mopub_banner_ad_unit_id":0,
         "mopub_interstitial_ad_unit_id":0,
-        "interstitial_ad_interval":10,
+        "interstitial_ad_interval":1,
         "native_ad_interval":6,
         "native_ad_index":6,
         "date_time":"2021-10-08 12:44:04",
