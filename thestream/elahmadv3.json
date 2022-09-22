@@ -1,10 +1,10 @@
 {
     "status":"ok",
-    "server":"http://zoroapp.tk/elahmadtvstream/admin_panel",
+    "server":"https://gbwappplus.com/thestreamcode/yacinetvguide",
     "ads":{
         "id":1,
         "ad_status":"on",
-        "ad_type":"admob",
+        "ad_type":"unity",
         
         "admob_publisher_id":"pub-5777941547581099",
         "admob_app_id":"ca-app-pub-5777941547581099~9759131790",
