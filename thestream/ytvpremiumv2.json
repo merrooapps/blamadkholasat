@@ -6,7 +6,7 @@
         "ad_status":"on",
         "ad_type":"unity",
         "activate_ironsource_banner": true,
-        "activate_ironsource_interstitial": false,
+        "activate_ironsource_interstitial": true,
         "ironsource_app_key": "14ba97349",
         "admob_publisher_id":"pub-406582357840491333",
         "admob_app_id":"ca-app-pub-406582357840491333~4589428490",
