@@ -18,7 +18,7 @@
         "providers":"firebase",
         "protocol_type":"http",
         "fcm_notification_topic":"the_stream_topic",
-        "more_apps_url":"https:\/\/codecanyon.net\/user\/solodroid\/portfolioh",
+        "more_apps_url":"https:\/\/codecanyon.net\/user\/solodroid\/portfolio",
         "youtube_api_key":0
     },
     "ads":{
