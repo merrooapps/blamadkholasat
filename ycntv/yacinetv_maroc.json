@@ -1,11 +1,11 @@
 {
-    "PANEL_URL": "https://wahdiwna.com/ostoratest/app",
+    "PANEL_URL": "https://marouaneai.com/yacinetvapp/app",
     "applicationId": "com.app.yacinetv.maroc",
     "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
     
     "status":"ok",
     "app":{
-        "status":0,
+        "status":1,
         "redirect_url":"https:\/\/play.google.com\/store\/apps\/details?id=com.app.yassin.ytv"
     },
     "settings":{
