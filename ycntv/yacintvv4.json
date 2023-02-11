@@ -6,7 +6,7 @@
     
     "status":"ok",
     "app":{
-        "status":1,
+        "status":0,
         "redirect_url":"https:\/\/play.google.com\/store\/apps\/details?id=com.app.yacinetv.v5"
     },
     "settings":{
@@ -18,7 +18,7 @@
         "providers":"firebase",
         "protocol_type":"http",
         "fcm_notification_topic":"the_stream_topic",
-        "more_apps_url":"https://play.google.com/store/apps/details?id=com.app.yacinetv.v4",
+        "more_apps_url":"https://play.google.com/store/apps/details?id=com.app.yacinetv.v5",
         "youtube_api_key":0
     },
     "ads":{
