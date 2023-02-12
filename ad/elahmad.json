@@ -1,0 +1,22 @@
+{
+
+  "admob_app_id": "ca-app-pub-6981705353627370~4368301488",
+  "admob_banner_id": "ca-app-pub-6981705353627370/4040998427",
+  "admob_interstitial_id": "ca-app-pub-6981705353627370/1414835083",
+  "admob_native_id": "ca-app-pub-6981705353627370/1358994760",
+
+  "unity_game_id": "0000000",
+  "unity_banner_id": "",
+  "unity_interstitial_id": "",
+  "unity_native_id": "",
+
+  "ironsource_app_key": "12ee38a45",
+
+  "network_type": "iron",
+  "interstitial_counter": 1,
+
+  "backend_url": "http://radiodiali.com/mxradioonlinedomain/nemosofts/yallaliveiron/speed_api.php",
+  "backend_package_name": "com.yacine.tv.yalla.live"
+  //elahmad
+
+}
