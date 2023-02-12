@@ -1,0 +1,22 @@
+{
+
+  "admob_app_id": "ca-app-pub-2962349681035425~6334755740",
+  "admob_banner_id": "ca-app-pub-2962349681035425/8769347399",
+  "admob_interstitial_id": "ca-app-pub-2962349681035425/7208853714",
+  "admob_native_id": "ca-app-pub-2962349681035425/1956527033",  
+  
+  "unity_game_id": "0000000",
+  "unity_banner_id": "",
+  "unity_interstitial_id": "",
+  "unity_native_id": "",
+
+  "ironsource_app_key": "136f2afe9",
+
+  "network_type": "iron",
+  "interstitial_counter": 1,
+
+  "backend_url": "https://yacinetv.link/playstore/yacinetv/speed_api.php",
+  "backend_package_name": "com.yacine.tv.yalla.live"
+  //appyacinetv yacine.tv.link//
+
+}
