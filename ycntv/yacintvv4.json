@@ -6,7 +6,7 @@
     
     "status":"ok",
     "app":{
-        "status":1,
+        "status":0,
         "redirect_url":"https:\/\/play.google.com\/store\/apps\/details?id=com.app.yacinetv.v5"
     },
     "settings":{
@@ -25,7 +25,7 @@
         "id":1,
         "ad_status":"on",
         "ad_type":"ironsource",
-        "backup_ads":"applovin_max",
+        "backup_ads":"none",
         "admob_publisher_id":"pub-33100924367608881",
         "admob_app_id":0,
         "admob_banner_unit_id":"ca-app-pub-3310092436760888/2153124692",
@@ -43,9 +43,9 @@
         "unity_game_id":0,
         "unity_banner_placement_id":0,
         "unity_interstitial_placement_id":0,
-        "applovin_banner_ad_unit_id":"411ad612dc16d2e2",
-        "applovin_interstitial_ad_unit_id":"a93ac5e071a2f01e",
-        "applovin_native_ad_manual_unit_id":"b4667e7119b83e97",
+        "applovin_banner_ad_unit_id":"0",
+        "applovin_interstitial_ad_unit_id":"0",
+        "applovin_native_ad_manual_unit_id":"0",
         "applovin_banner_zone_id":0,
         "applovin_interstitial_zone_id":0,
         "ironsource_app_key":"179792c55",
