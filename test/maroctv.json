@@ -1,6 +1,6 @@
 {
    
-    "PANEL_URL": "https://marouaneai.com/yacinetvapp/app",
+    "PANEL_URL": "https://marouaneai.com/ytv/matchat/app",
     "applicationId": "app.maroc.tv.tnt.yacine",
     "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
     
@@ -23,8 +23,8 @@
     },
     "ads":{
         "id":1,
-        "ad_status":"off",
-        "ad_type":"none",
+        "ad_status":"on",
+        "ad_type":"applovin_max",
         "backup_ads":"none",
         "admob_publisher_id":"pub-2386453525019911",
         "admob_app_id":"ca-app-pub-2386453525019911~8430845129",
@@ -43,9 +43,9 @@
         "unity_game_id":0,
         "unity_banner_placement_id":0,
         "unity_interstitial_placement_id":0,
-        "applovin_banner_ad_unit_id":"AAAAAA",
-        "applovin_interstitial_ad_unit_id":"AAAAAAAAA",
-        "applovin_native_ad_manual_unit_id":"AAAAAAA",
+        "applovin_banner_ad_unit_id":"d9f9a1e79d91d104",
+        "applovin_interstitial_ad_unit_id":"d9fb07fbb366a23c",
+        "applovin_native_ad_manual_unit_id":"a129e6578ad57120",
         "applovin_banner_zone_id":0,
         "applovin_interstitial_zone_id":0,
         "ironsource_app_key":"AAAAAA",
