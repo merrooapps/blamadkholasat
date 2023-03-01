@@ -5,8 +5,8 @@
     
     "status":"ok",
     "app":{
-        "status":1,
-        "redirect_url":"https:\/\/play.google.com\/store\/apps\/details?id=my.yacinetv.app"
+        "status":0,
+        "redirect_url":"https://play.google.com/store/apps/details?id=app.maroc.tv.tnt.yacine"
     },
     "settings":{
         "id":1,
