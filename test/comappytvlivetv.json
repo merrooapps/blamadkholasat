@@ -23,8 +23,8 @@
     
     "ads":{
         "id":1,
-        "ad_status":"off",
-        "ad_type":"none",
+        "ad_status":"on",
+        "ad_type":"applovin_max",
         "backup_ads":"none",
         "admob_publisher_id":"pub-3940256099942544",
         "admob_app_id":0,
@@ -43,9 +43,9 @@
         "unity_game_id":0,
         "unity_banner_placement_id":0,
         "unity_interstitial_placement_id":0,
-        "applovin_banner_ad_unit_id":"aaaa",
-        "applovin_interstitial_ad_unit_id":"aaaa",
-        "applovin_native_ad_manual_unit_id":"aaaa",
+        "applovin_banner_ad_unit_id":"df71c885b84295b3",
+        "applovin_interstitial_ad_unit_id":"4c0e54a6db3e2af3",
+        "applovin_native_ad_manual_unit_id":"c446b90788a889fe",
         "applovin_banner_zone_id":0,
         "applovin_interstitial_zone_id":0,
         "ironsource_app_key":"aaa",
