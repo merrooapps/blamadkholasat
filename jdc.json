@@ -6,12 +6,6 @@
 "external_url": "https://irondev.ma/"
 },
 "categories": [
-  {
-      "cid": "16",
-      "category_name": "SSC Channels",
-      "category_image": "https://raw.githubusercontent.com/marouanejson/myprojet/main/img/channel/scc.png"
-  },  
-	
 	
   {
       "cid": "15",
