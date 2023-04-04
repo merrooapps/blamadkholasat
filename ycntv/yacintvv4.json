@@ -6,8 +6,8 @@
     
     "status":"ok",
     "app":{
-        "status":0,
-        "redirect_url":"https://play.google.com/store/apps/details?id=app.yacine.tv.version3"
+        "status":1,
+        "redirect_url":"https://play.google.com/store/apps/details?id=app.yunes.yacine.tv"
     },
     "settings":{
         "id":1,
