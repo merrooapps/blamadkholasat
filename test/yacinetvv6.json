@@ -6,8 +6,8 @@
     
     "status":"ok",
     "app":{
-        "status":0,
-        "redirect_url":"https:\/\/play.google.com\/store\/apps\/details?id=com.app.yacine.tv.v6"
+        "status":1,
+        "redirect_url":"https:\/\/play.google.com\/store\/apps\/details?id=app.yunes.yacine.tv"
     },
     "settings":{
         "id":1,
@@ -23,9 +23,9 @@
     },
     "ads":{
         "id":1,
-        "ad_status":"on",
-        "ad_type":"ironsource",
-        "backup_ads":"admob",
+        "ad_status":"off",
+        "ad_type":"non",
+        "backup_ads":"non",
         "admob_publisher_id":"pub-1832731666295844",
         "admob_app_id":"ca-app-pub-1832731666295844~8430845129",
         "admob_banner_unit_id":"ca-app-pub-1832731666295844/5725806069",
