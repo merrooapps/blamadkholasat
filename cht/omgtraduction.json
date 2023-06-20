@@ -6,7 +6,7 @@
   
   "AdsController": {
       
-    "BannerNetwork"           : "ironsource",
+    "BannerNetwork"           : "applovin",
     "InterstitialNetwork"     : "applovin",
     "NativeNetwork"           : "applovin",
     
@@ -21,9 +21,9 @@
     "Facebook_InterstitialAd" : "692961278482629_692963491815741",
     "Facebook_Native"         : "692961278482629_857100538735368",
     
-    "Applovin_Banner"        : "xxx",
-    "Applovin_InterstitialAd": "xxx",
-    "Applovin_Native"        : "xxx",
+    "Applovin_Banner"        : "14674adb8f7c0856",
+    "Applovin_InterstitialAd": "3c43019f166018e8",
+    "Applovin_Native"        : "5bdb19f5bd94a11d",
 
     "Unity_GameID"           : "4076527xxx",
     "Unity_Banner"           : "BannerAd",
