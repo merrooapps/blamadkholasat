@@ -1,7 +1,7 @@
 {
 	"appRedirect": {
 		"status": false,
-		"redirectURL": "com.YACINE.TV.Yassire"
+		"redirectURL": "test"
 	},
 	"AdsController": {
 		"BannerNetwork": "applovin",
@@ -32,7 +32,7 @@
 	},
 
 
-	"blockCountry": "us,gb,qa,in,nl",
+	"blockCountry": "us,gb,qa,in,nl,es",
 
 	"whiteList": {
 
@@ -43,7 +43,7 @@
 
 			{
 				"name": "Bein Sport 360P",
-				"preview": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+				"preview": "https://www.beinsports.com/images/bein_logo_social.webp"
 			},
 
 			{
