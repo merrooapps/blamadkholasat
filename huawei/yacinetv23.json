@@ -1,1 +1,205 @@
+{
+  "appRedirect": {
+    "status"      : false,
+    "redirectURL" : "com.MAROUANE.player"
+  },
+  "AdsController": {
+    "BannerNetwork"           : "applovin",
+    "InterstitialNetwork"     : "applovin",
+    "NativeNetwork"           : "applovin",
+    "RewardNetwork"           : "applovin",
 
+    "IntervalClick"           : 10,
+
+    "AdMob_ID"                : "pub-3940256099942544xx",
+    "AdMob_Banner"            : "ca-app-pub-3940256099942544xx/6300978111",
+    "AdMob_InterstitialAd"    : "ca-app-pub-3940256099942544xx/1033173712",
+    "AdMob_Native"            : "ca-app-pub-3940256099942544xx/2247696110",
+
+    "Facebook_Banner"         : "692961278482629_692963411815749",
+    "Facebook_InterstitialAd" : "692961278482629_692963491815741",
+    "Facebook_Native"         : "692961278482629_857100538735368",
+
+    "Applovin_Banner"         : "xxx",
+    "Applovin_InterstitialAd" : "xxx",
+    "Applovin_Native"         : "xxx",
+
+    "Unity_GameID"            : "4076527xx",
+    "Unity_Banner"            : "BannerAd",
+    "Unity_InterstitialAd"    : "InterstitialAd",
+
+    "IronSourceKey"           : "xxx"
+  },
+
+
+  "blockCountry": "",
+  
+  "whiteList": {
+    
+    "category": [
+      {
+        "name": "Arabic Sport",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
+      },
+      {
+        "name": "Sport",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
+      },
+      {
+        "name": "Entertainment",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png"
+      },
+      {
+        "name": "Cartoon kids",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png"
+      }
+    ],
+    "Arabic Sport": [
+      {
+        "title": "Server 1 ",
+        "preview": "https://statmilk.bleacherreport.com/api/image/mashup/logo?team1=real-madrid&team2=manchester-city",
+        "rating": "4.8",
+        "ratingUS"   : "",
+        "openLink" : "",
+        "description": ""
+      },
+      {
+        "title": "Server 2",
+        "preview": "https://statmilk.bleacherreport.com/api/image/mashup/logo?team1=real-madrid&team2=manchester-city",
+        "rating": "4.5",
+        "ratingUS"   : "",
+        "openLink" : "",
+        "description": ""
+      }
+    ],
+    "Sport": [
+
+      {
+        "title": "Sport HD 1",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
+        "rating": "4.5",
+        "ratingUS"   : "",
+        "openLink" : "",
+        "description": ""
+      },
+      {
+        "title": "Sport HD 2",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
+        "rating": "4.0",
+        "ratingUS"   : "",
+        "openLink" : "",
+        "description": ""
+      }
+    ],
+    "Entertainment": [
+      {
+        "title": "Entertainment HD 1",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
+        "rating": "5.0",
+        "ratingUS"   : "",
+        "openLink" : "",
+        "description": ""
+      },
+      {
+        "title": "Entertainment HD 1",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
+        "rating": "5.0",
+        "ratingUS"   : "",
+        "openLink" : "",
+        "description": ""
+      }
+    ],
+    "Cartoon kids": [
+      {
+        "title": " Kids HD 1",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
+        "rating": "5.0",
+        "ratingUS"   : "",
+        "openLink" : "",
+        "description": ""
+      },
+      {
+        "title": "Kids HD 1",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
+        "rating": "5.0",
+        "ratingUS"   : "",
+        "openLink" : "",
+        "description": ""
+      }
+    ]
+  },
+
+  "blackList": {
+
+    "category": [
+      {
+        "name": "Sport",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg"
+      },
+      {
+        "name": "Entertainment",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png"
+      },
+      {
+        "name": "Cartoon kids",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png"
+      }
+    ],
+    "Sport": [
+      {
+        "title": "Sport HD 1",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
+        "rating": "2.5",
+        "ratingUS"   : "",
+        "openLink" : "https://youtu.be/T31yQf24EOs",
+        "description": ""
+      },
+      {
+        "title": "Sport HD 2",
+        "preview": "https://img.freepik.com/premium-vector/football-tv-design-television-ball-logo-template-flat-vector_575465-1004.jpg",
+        "rating": "4.0",
+        "ratingUS"   : "",
+        "openLink" : "https://youtu.be/T31yQf24EOs",
+        "description": ""
+      }
+    ],
+    "Entertainment": [
+      {
+        "title": "Entertainment HD 1",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
+        "rating": "5.0",
+        "ratingUS"   : "",
+        "openLink" : "https://youtu.be/gpMhr7PdlLA",
+        "description": ""
+      },
+      {
+        "title": "Entertainment HD 1",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/entertainment.png",
+        "rating": "5.0",
+        "ratingUS"   : "",
+        "openLink" : "https://youtu.be/gpMhr7PdlLA",
+        "description": ""
+      }
+    ],
+    "Cartoon kids": [
+      {
+        "title": " Kids HD 1",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
+        "rating": "5.0",
+        "ratingUS"   : "",
+        "openLink" : "https://youtu.be/HfEVEGf1A8Q",
+        "description": ""
+      },
+      {
+        "title": "Kids HD 1",
+        "preview": "https://zonekapp.com/AndroidStudio/Marouan/media/cartoon.png",
+        "rating": "5.0",
+        "ratingUS"   : "",
+        "openLink" : "https://youtu.be/HfEVEGf1A8Q",
+        "description": ""
+      }
+    ]
+  }
+
+ 
+}
