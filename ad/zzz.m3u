@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/arianatelevision.com.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml"
 #EXTINF:0,Canal America
-#EXTVLCOPT:http-user-agent=DODOYACINE
-https://maintv.whoomain.uk/@KOORA01/B0RIBA-@/101.ts
+#EXTVLCOPT:http-user-agent=yassin7000
+http://kooralive.tv/play/mO3MYTegVIW2g9hV6uzX9706pAcJozV3ntkLFdLTIm4/ts
 #EXTINF:-1 tvg-id="yacinetv premium1.af" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Undefined",Ariana TV National (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=DODOYACINE
-https://maintv.whoomain.uk/@KOORA01/B0RIBA-@/101.ts
+#EXTVLCOPT:http-user-agent=yassin7000
+http://kooralive.tv/play/mO3MYTegVIW2g9hV6uzX9706pAcJozV3ntkLFdLTIm4/ts
 #EXTINF:-1 tvg-id="ArianaTVUS.af" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Undefined",Ariana TV US (720p) [Not 24/7]
-http://gtt.yacinelivetv.com/live/61616000/index.m3u8?t=yJioy59slzKSckaD2RtB2g&e=1680381576
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ATN Europe
-http://gtt.yacinelivetv.com/live/61616000/index.m3u8?t=yJioy59slzKSckaD2RtB2g&e=1680381576
+https://cdn1.loly1.site/25.m3u8?t=smsm123456
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",aymane tv
+http://213.6.242.210/DeirNet3/index.m3u8
 #EXTINF:-1 tvg-id="ATNNews.af" tvg-logo="https://i.imgur.com/QenemOL.png" group-title="News",ATN News (720p) [Not 24/7]
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BaharTV.af" tvg-logo="https://bahartv-af.com/wp-content/uploads/2017/01/IMG_1864-2.png" group-title="Undefined",Bahar TV (720p) [Not 24/7]
